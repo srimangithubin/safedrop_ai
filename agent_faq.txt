@@ -1,0 +1,25 @@
+# SafeDrop AI — Delivery Agent SOP (prototype)
+
+Q: Can I leave a signature-required parcel with Safe Drop?
+A: Signature-required parcels are not eligible for Safe Drop.
+
+Q: The address has no concealed spot and the parcel is visible from the street. What do I do?
+A: If no safe place is identified, the parcel must be carded for collection.
+
+Q: The apartment lobby is open to the public. Can I leave the parcel there?
+A: An apartment lobby that is publicly accessible is not a safe place.
+
+Q: The intercom is broken and the customer is home but cannot come down. What is the rule?
+A: If an intercom is broken and a meet-up is not possible, card and route to the Post Office.
+
+Q: The mailbox is too small to conceal the parcel. What is the rule?
+A: A mailbox that cannot fully conceal the parcel is not a safe place.
+
+Q: Weather is heavy rain and there is no covered area. What is the rule?
+A: A safe place must provide reasonable protection from weather.
+
+Q: If visibility from the street cannot be avoided?
+A: Escalate to carding procedure. Do not attempt Safe Drop.
+
+Q: Is it allowed to leave parcel near garbage bins?
+A: No. Unsafe or unhygienic areas must not be used for Safe Drop.

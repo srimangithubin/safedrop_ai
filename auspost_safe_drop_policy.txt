@@ -1,0 +1,27 @@
+# SafeDrop / ATL — Prototype Policy (single source of truth)
+
+## Core Rules
+- "Signature-required parcels are not eligible for Safe Drop."
+- "Parcels that require ID or age verification are not eligible for Safe Drop."
+- "If no safe place is identified, the parcel must be carded for collection."
+- "A safe place must not be visible from the street."
+- "A safe place must provide reasonable protection from weather."
+
+## Access / Intercom / Gate
+- "If an intercom is broken and a meet-up is not possible, card and route to the Post Office."
+- "If access to the property is not possible (e.g., locked gate), leave a card and route to the nearest Post Office."
+
+## Location Safety
+- "An apartment lobby that is publicly accessible is not a safe place."
+- "A mailbox that cannot fully conceal the parcel is not a safe place."
+- "Unsafe or unhygienic areas (e.g., near garbage bins) must not be used for Safe Drop."
+
+## Weather
+- "Safe Drop is only allowed if the parcel can be reasonably protected from rain and sunlight."
+
+## Customer Opt-in
+- "The receiver must opt in to Safe Drop for the parcel or address."
+
+## Examples / Guidance
+- "If visibility from the street cannot be avoided, do not attempt Safe Drop; leave a card."
+- "If a meet-up is feasible at the entrance, complete handover; otherwise card and route to the Post Office."

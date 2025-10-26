@@ -1,0 +1,16 @@
+persona,query,answered,has_explicit_quote,grounded_strict,semantic_sim,latency,sources,answer
+customer,Can I request SafeDrop for express parcels?,True,True,True,0.8375,25.37,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Signature-required parcels are not eligible for Safe Drop."""
+agent,What if the customer’s gate is locked?,True,True,False,0.4827,25.35,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt","Escalate: ""What if the customerâ€™s gate is locked? Leave a card and redirect to the nearest Post Office."""
+customer,What happens during heavy rain?,True,True,True,0.5794,12.34,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Only if the parcel is protected from rain and sunlight."""
+agent,Can I leave the parcel with a neighbour if mailbox is full?,True,True,True,0.8178,18.93,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt","Escalate: ""A mailbox that cannot fully conceal the parcel is not a safe place."""
+customer,How do I change SafeDrop instructions after dispatch?,True,True,False,0.1328,11.63,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Escalate: no policy match found."""
+agent,Are signature-required parcels eligible for SafeDrop?,True,True,True,0.8375,23.77,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt","Escalate: ""Signature-required parcels are not eligible for Safe Drop."""
+customer,Will SafeDrop work if the intercom is broken?,True,True,False,0.2415,12.02,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Please contact support: policy unclear for this case."""
+agent,Can I use SafeDrop for oversized packages?,True,False,False,0.0,16.33,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt",Escalate: no policy match found.
+customer,What happens if SafeDrop fails due to weather?,True,True,False,0.7087,14.97,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Will my parcel be left in bad weather? A safe place must provide reasonable protection from weather."""
+agent,What are the rules for reattempted deliveries?,True,False,False,0.0,16.45,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt",Escalate: no policy match found.
+customer,Can I specify a hiding spot for SafeDrop?,True,True,True,0.5611,20.24,"auspost_faq.txt, auspost_safe_drop_policy.txt","""A safe place must provide reasonable protection from weather."" You cannot specify a hiding spot for SafeDrop, as the policy requires that the safe place provides reasonable protection from weather."
+agent,Can I proceed with SafeDrop if the area has CCTV coverage?,True,True,True,0.4565,26.71,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt","Escalate: ""If visibility from the street cannot be avoided?"""
+customer,What if I’m not home when the parcel arrives?,True,True,True,0.3983,13.39,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Leave a card and redirect to the nearest Post Office."""
+agent,What happens if there’s no safe place to leave the parcel?,True,True,True,0.6845,22.46,"agent_faq.txt, auspost_faq.txt, auspost_safe_drop_policy.txt","Escalate: ""If no safe place is identified, the parcel must be carded for collection."""
+customer,Can SafeDrop be used for international parcels?,True,True,False,0.1328,14.72,"auspost_faq.txt, auspost_safe_drop_policy.txt","""Escalate: no policy match found."""

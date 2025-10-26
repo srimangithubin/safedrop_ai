@@ -1,0 +1,29 @@
+# Safe Drop — Customer FAQ (prototype)
+
+Q: Can I enable Safe Drop for my parcels?
+A: The receiver must opt in to Safe Drop for the parcel or address.
+
+Q: Will the driver leave my parcel anywhere on my property?
+A: A safe place must not be visible from the street.
+
+Q: Will my parcel be left in bad weather?
+A: A safe place must provide reasonable protection from weather.
+
+Q: What happens if there is no safe place at my address?
+A: If no safe place is identified, the parcel must be carded for collection.
+
+Q: Can alcohol or 18+ items be left with Safe Drop?
+A: Parcels that require ID or age verification are not eligible for Safe Drop.
+
+Q: Is a signature parcel eligible for Safe Drop?
+A: Signature-required parcels are not eligible for Safe Drop.
+
+Q: Can Safe Drop be used in bad weather?
+A: Only if the parcel is protected from rain and sunlight.
+
+Q: What if the mailbox is too small or exposed?
+A: Mailboxes that cannot fully conceal the parcel are not safe places.
+
+Q: What if the customer’s gate is locked?
+A: Leave a card and redirect to the nearest Post Office.
+

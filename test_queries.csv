@@ -1,0 +1,16 @@
+query_id,user_type,query
+1,customer,Can I request SafeDrop for express parcels?
+2,agent,What if the customer’s gate is locked?
+3,customer,What happens during heavy rain?
+4,agent,Can I leave the parcel with a neighbour if mailbox is full?
+5,customer,How do I change SafeDrop instructions after dispatch?
+6,agent,Are signature-required parcels eligible for SafeDrop?
+7,customer,Will SafeDrop work if the intercom is broken?
+8,agent,Can I use SafeDrop for oversized packages?
+9,customer,What happens if SafeDrop fails due to weather?
+10,agent,What are the rules for reattempted deliveries?
+11,customer,Can I specify a hiding spot for SafeDrop?
+12,agent,Can I proceed with SafeDrop if the area has CCTV coverage?
+13,customer,What if I’m not home when the parcel arrives?
+14,agent,What happens if there’s no safe place to leave the parcel?
+15,customer,Can SafeDrop be used for international parcels?
